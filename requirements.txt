@@ -4,3 +4,4 @@ matplotlib
 requests
 tqdm
 qgrid
+h5py
